@@ -1,0 +1,23 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./npm_modules/jest/bin/jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulinaOM/spiderverse_launchx.git"
+  },
+  "author": "paulina_otero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulinaOM/spiderverse_launchx/issues"
+  },
+  "homepage": "https://github.com/paulinaOM/spiderverse_launchx#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
